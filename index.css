@@ -1,31 +1,42 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
- html {
-    background-color:#cccccc;
-}
 body {
     font-family:Garamond;
+    background-image: url("bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color:#eeeeee
+}
+table.content{
+    background-color:#ddddff;
+    padding:15px;
+    border-radius:10px;
+}
+body p {
+    font-size:16px;
+}
+td h4 {
+    margin-left:10px;
+}
+td p {
+    font-size:16px;
+    margin-left:10px;
 }
 #dope {
     position:relative;
-    font-family:Garamond;
-    color:#cccccc;
     margin-top:10px;
     margin-left:50px;
     float:left;
     cursor:pointer;
 }
-h3 {
-    margin-left:10px;
-}
-p {
-    margin-left:10px;
+#header {
+    background-color:#ddddff
 }
 #home {
     height:850px;
     width:78%;
-    background-color:#fbcf8d;
     float:left;
     border-radius:5px;
     position:relative;
@@ -34,16 +45,6 @@ p {
 #projects {
     height:100%;
     width:78%;
-    background-color:#fbcf8d;
-    float:left;
-    border-radius:5px;
-    position:relative;
-    margin:55px 2px 2px 2px;
-}
-#resume {
-    height:100%;
-    width:78%;
-    background-color:#fbcf8d;
     float:left;
     border-radius:5px;
     position:relative;
@@ -52,8 +53,7 @@ p {
 .left {
     position:relative;
     height:850px;
-    width:20%;
-    background-color:#ddddcc;
+    width:200px;
     float:left;
     border-radius:5px;
     margin:55px 2px 2px 2px;
@@ -66,23 +66,19 @@ p {
     cursor:pointer;
     font-size:15px;
 }
-.right h2 {
-    margin-left: 5px;
-}
 td p {
     valign:top;
 }
 #contact {
     position:relative;
     list-style-type: none;
-    color:#cccccc;
+    color:#333333;
     float:right;
     margin:5px 30px;
 }
 #header {
     height:50px;
     width:99%;
-    background-color:#8d3119;
     margin:auto;
     border: 1px solid #cccccc;
     border-radius:5px;
@@ -91,12 +87,10 @@ td p {
     z-index:1;
 }
 #mail {
-    color:#cccccc;
     text-decoration:none;
 }
 #selfie {
-    width: 70%;
-    border-radius:3px;
+    border-radius:150px;
     margin-top:10px;
     /* float:right; */
     position:relative;
@@ -107,21 +101,10 @@ td p {
 #projects a {
     color:black;
 }
-#resume td img {
-    width: 50%;
-}
-#resume table table {
-    font-size:15px;
-    margin-left:5px;
-}
-#resume table table a {
-    color:black;
-}
 #footer {
     position:relative;
     height:50px;
     width:100%;
-    background-color:#8d3119;
     clear:both;
     border-radius:5px;
     margin:2px;
@@ -129,8 +112,6 @@ td p {
 #pics {
     display:inline-block;
     color:#cccccc;
-}
-#edu {
 }
 #pics a {
     margin-left:3px;
