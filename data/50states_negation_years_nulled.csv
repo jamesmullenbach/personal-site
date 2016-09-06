@@ -1,0 +1,33 @@
+,State,1830,1840,1850,1860,1870,1880,1890,1900,1910,1920,fips
+0,Alabama,null,null,5.384615384615385,5.833333333333333,null,12.0,null,null,null,null,US01
+1,California,null,null,null,null,null,3.0,3.0,4.4,null,null,US06
+2,District of Columbia,7.7,7.608333333333333,7.265441176470588,10.658823529411764,6.888888888888889,6.0,null,8.333333333333334,2.0,3.0,US11
+3,Hawaii,null,10.0,null,null,null,null,null,null,null,null,US15
+4,Idaho,null,null,null,null,null,5.0,null,null,null,null,US16
+5,Illinois,null,8.0,5.625,13.0,null,null,null,null,5.0,null,US17
+6,Indiana,null,5.333333333333333,7.571428571428571,7.208955223880597,5.0,null,7.0,3.0,null,null,US18
+7,Iowa,null,null,null,null,null,null,null,null,10.0,null,US19
+8,Kansas,null,null,6.96969696969697,8.75,5.0,6.2,null,9.0,7.0,14.0,US20
+9,Kentucky,null,6.818181818181818,null,5.0,null,null,null,15.0,null,null,US21
+10,Louisiana,10.0,7.0,6.666666666666667,5.428571428571429,9.0,null,null,null,null,null,US22
+11,Maryland,null,null,11.0,8.0,null,null,null,null,null,null,US24
+12,Michigan,null,10.0,6.526315789473684,5.8,null,null,null,null,null,null,26
+13,Minnesota,null,null,null,3.0,null,null,null,7.0,5.0,null,US27
+14,Mississippi,9.666666666666666,8.4,6.15625,6.878048780487805,null,null,null,null,null,null,US28
+15,Missouri,null,5.916666666666667,5.4,6.0,null,14.0,null,null,null,null,US29
+16,Nebraska,null,null,5.0,10.0,null,null,3.5,1.0,null,null,US31
+17,New Mexico,null,null,null,6.0,null,null,null,null,null,null,US35
+18,New York,null,6.25,5.653061224489796,5.333333333333333,5.666666666666667,10.0,4.833333333333333,3.75,1.0,null,US36
+19,North Carolina,11.5,7.7272727272727275,6.345679012345679,7.5,null,null,11.5,null,null,null,US37
+20,North Dakota,null,null,null,null,null,5.0,null,null,null,null,US38
+21,Ohio,7.0,7.803921568627451,6.950048971596474,7.896428571428571,5.285714285714286,7.5,null,null,null,null,US39
+22,Oklahoma,null,null,null,null,null,null,null,null,6.0,null,US40
+23,Pennsylvania,null,8.0,6.24,7.386666666666667,7.0,null,1.0,2.0,null,null,US42
+24,South Carolina,9.666666666666666,7.75,6.851851851851852,6.846153846153846,null,7.0,9.0,null,7.0,null,US45
+25,Tennessee,null,null,7.25,6.666666666666667,null,null,null,null,null,null,US47
+26,Texas,null,null,7.0,null,null,null,null,2.0,null,null,US48
+27,Utah,null,null,null,null,null,null,null,3.6666666666666665,null,null,US49
+28,Vermont,7.445945945945946,7.610849056603773,6.5371024734982335,7.130434782608695,6.25,null,null,null,null,null,US50
+29,Virginia,null,6.7631578947368425,6.264285714285714,6.666666666666667,5.0,null,null,null,5.0,null,US51
+30,Washington,null,null,null,7.333333333333333,null,null,2.0,null,null,null,US53
+31,West Virginia,null,null,7.375,7.315789473684211,4.5,null,null,null,null,null,US54
